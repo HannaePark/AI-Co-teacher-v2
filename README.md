@@ -23,7 +23,7 @@
 ## 5. 실시간 대시보드 접속 링크 Live Dashboard URL
 [https://ai-co-teacher-v2-4qja5xbnt4rxjphkmybpy6.streamlit.app/](https://ai-co-teacher-v2-4qja5xbnt4rxjphkmybpy6.streamlit.app/)
 
-## 📂 대쉬보드 데이터 입력 명세 (CSV Header Specification)
+## 📂 대쉬보드 업로드 CSV 파일 형식 (CSV Header Specification)
 본 시스템의 학습 분석 및 AI 모델 작동을 위해 업로드하는 CSV 파일은 반드시 아래의 헤더(Header) 구조를 포함.
 
 | 컬럼명 | 데이터 타입 | 설명 | 교육학적 활용 지표 |
